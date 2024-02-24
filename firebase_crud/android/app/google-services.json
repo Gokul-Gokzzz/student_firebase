@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "523719868125",
+    "project_id": "blooddonation-f9c79",
+    "storage_bucket": "blooddonation-f9c79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523719868125:android:1505e4ae78d6c781026534",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCytOPmy26ZwR2G11DY8Wi93U_P7C5mv4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
